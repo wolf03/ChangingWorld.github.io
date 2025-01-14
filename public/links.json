@@ -5,6 +5,13 @@
       "desc": "Common links included in circle friends",
       "link_list": [
         {
+          "name": "Ethan",
+          "intro": "Don't stay awake for too long.",
+          "link": "https://hanlife02.com.cn/",
+          "avatar": "https://hanlife02.com.cn/api/v2/objects/avatar/evcvs61h0ajgvoai07.jpeg",
+          "email": "han@hanlife02.com.cn"
+        },
+        {
           "name": "CyanFalse's Weblog",
           "intro": "I'm CyanFalse,New to Here.",
           "link": "https://blog.eurekac.cn/",
